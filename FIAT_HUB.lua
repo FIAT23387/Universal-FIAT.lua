@@ -17,5 +17,5 @@ elseif placeId == 18687417158 then
 else
     -- Espera um pouco pra garantir carregamento visual antes do kick
     task.wait(1)
-    player:Kick("Esse jogo não suporta o script. Apenas Blox Fruits, BROKHAVEN e .Forsaken esta shut down..")
+    player:Kick("Esse jogo não suporta o script. Apenas Blox Fruits em beta ⚠️, BROKHAVEN e Forsaken esta shut down⚠️.")
 end
